@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about Data Analysis, Artificial Intelligence and Machine Learning.**
 
-- 👯 I’m looking to collaborate on **Open source organisations that use python.**
+- 👯 I’m looking to collaborate on **projects available on github.**
 
 - 💬 Ask me about **python, C and SQL.**
 
