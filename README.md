@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **python, C and SQL.**
 
-- 📫 How to reach me: **https://twitter.com/sgautham2k**
-
 - ⚡ Fun fact **I listen to music almost the whole day..**
 
 <h3 align="left">Connect with me:</h3>
