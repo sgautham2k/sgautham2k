@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgautham2k&label=Profile%20views&color=0e75b6&style=flat" alt="sgautham2k" /> </p>
 
-- 🔭 I’m currently working on [Voice Assistant](https://github.com/sgautham2k/Voice-Assistant).
+- 🔭 I’m currently working on [Voice Assistant](https://github.com/sgautham2k/Voice-Assistant) and [Sudoku Solver](https://github.com/sgautham2k/SudokuSolver).
 
 - 🌱 I’m currently learning **about Data Analysis, Artificial Intelligence and Machine Learning.**
 
