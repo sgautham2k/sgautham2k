@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Voice Assistant](https://github.com/sgautham2k/Voice-Assistant) and [Sudoku Solver](https://github.com/sgautham2k/SudokuSolver).
 
-- 🌱 I’m currently learning **about Data Analysis, Artificial Intelligence and Machine Learning.**
+- 🌱 I’m currently learning **about Data Analytics, Artificial Intelligence and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **projects available on github.**
 
