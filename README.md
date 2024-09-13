@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Gautham! 👋</h1>
-<h3 align="center">A passionate Data Analyst!</h3>
+<h3 align="center">Web Dev | ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgautham2k&label=Profile%20views&color=0e75b6&style=flat" alt="sgautham2k" /> </p>
 
-- 🔭 I’m currently working on [Voice Assistant](https://github.com/sgautham2k/Voice-Assistant) and [Sudoku Solver](https://github.com/sgautham2k/SudokuSolver).
+- 🔭 I’m currently pursuing my Master's in Software Engineering @ Arizona State University.
 
-- 🌱 I’m currently learning **about Data Analytics, Artificial Intelligence and Machine Learning.**
+- 🌱 I’m currently learning **about Software Development.**
 
-- 👯 I’m looking to collaborate on **projects available on github.**
+- 👯 I’m looking to collaborate on **projects available open source.**
 
-- 💬 Ask me about **python, C and SQL.**
+- 💬 Ask me about **python, C# and SQL.**
 
 - ⚡ Fun fact **I listen to music almost the whole day..**
 
