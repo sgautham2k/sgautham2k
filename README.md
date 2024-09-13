@@ -19,6 +19,7 @@
 <a href="https://instagram.com/gauuth.am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauuth.am" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sgautham2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sgautham2k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sgautham2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sgautham2k" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gautham-s-3110g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sgautham2k" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<sgautham2k>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<sgautham2k>" height="30" width="40" /></a>
 </p>
 
